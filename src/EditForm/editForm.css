@@ -1,0 +1,26 @@
+.form{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    gap: 22px;
+}
+.css-1wnsr1i{
+    background: linear-gradient(to right, #25c481, #25b7c4) !important;
+}
+.btn{
+    background-color: #ffff !important;
+}
+.form-input{
+    width: 80%;
+    resize: none;
+    border: #25b7c4;
+    border-radius: 5px;
+    background-color: #ffff;
+    color: black;
+
+}
+.gender{
+    color: #ffff;
+    display: flex;
+    gap: 5px;
+}
