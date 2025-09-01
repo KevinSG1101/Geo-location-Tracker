@@ -1,0 +1,15 @@
+.App{
+  display: flex;
+
+  flex-direction: column;
+}
+
+.button{
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px;
+}
+.MuiButton-root{
+  background-color: white !important;
+  color:  #25b7c4 !important;
+}
